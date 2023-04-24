@@ -16,4 +16,4 @@ https://trello.com/b/GmhDFMq5/dad-jokes
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Apr-23-LC-LiftOff-STL/dadjokes-group6
